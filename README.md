@@ -1,0 +1,1 @@
+# Kuickad's OpenAPI Specification
