@@ -1,0 +1,12 @@
+openapi: 3.1.0
+info:
+  title: Kuickad  API
+  description: A simple API to manage ads.
+  version: 1.0.0
+
+servers:
+  - url: "https://api.kuickad.com"
+    description: "Main production server"
+
+components:
+  schemas:
